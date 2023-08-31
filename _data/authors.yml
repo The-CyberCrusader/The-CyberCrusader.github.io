@@ -1,0 +1,13 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: The-CyberCrusader
+#   twitter: {twitter_of_author}
+#   url: https://www.github.com/BullsEy3
+# -------------------------------------
+
+The-CyberCrusader:
+  name: The-CyberCrusader
+  #twitter: cotes2020
+  url: https://github.com/The-CyberCrusader
+
