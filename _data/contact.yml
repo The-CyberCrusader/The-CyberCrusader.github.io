@@ -1,9 +1,9 @@
 #  The contact options.
 
-- type: https://github.com/The-CyberCrusader
+- type: github
   icon: "fab fa-github"
 
-- type: https://twitter.com/OffSecEnforcer
+- type: twitter
   icon: "fab fa-twitter"
 
 # type: email
