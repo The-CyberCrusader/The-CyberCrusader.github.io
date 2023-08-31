@@ -9,7 +9,7 @@ tags: [thm-vulnversity]
 pin: false
 image:
   path: https://i.postimg.cc/T29Q8LRY/screenshot-144.jpg
-  width: 1280   # in 
+  width: 1280   # in pixels
   height: 720   # in pixels
   alt: 
 ---
